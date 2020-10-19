@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-不是正式简历，何不搞得轻松、幽默、漂亮点？ 桥豆麻袋！哪来的漂亮？！做梦吧！
-
-曝照是不可能曝照的！ 这辈子都不可能曝照的（Twitter, Linkedin不算）。 吐槽能量！但真不能往死里吐槽自己了， 收敛一点！清醒一点！冷静一点！
+不是正式简历，何不搞得轻松、幽默、漂亮点？ 桥豆麻袋！哪来的漂亮？！
 
 My name Pronouns like **ShowLong Young** -- 自带英语谐音的名字， 秀长和年轻？ [滑稽]
 
