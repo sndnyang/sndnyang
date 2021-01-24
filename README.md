@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-不是正式简历，何不搞得轻松、幽默、漂亮点？ 桥豆麻袋！哪来的漂亮？！
+不是正式简历
 
 My name Pronouns like **ShowLong Young** -- 自带英语谐音的名字， 秀长和年轻？ [滑稽]
 
@@ -30,14 +30,14 @@ My name Pronouns like **ShowLong Young** -- 自带英语谐音的名字， 秀�
 ## My Publications 论文
 
 - **Xiulong Yang**, Shihao Ji, "Learning with Multiplicative Perturbations", 25th International Conference on Pattern Recognition (ICPR), Milan, Italy, 2020. [Arxiv](https://arxiv.org/abs/1912.01810), [Code](https://github.com/sndnyang/xvat)
-- 3篇（一篇一作在审，一篇二作，一篇跨学科教育领域合作， Educational Policy, 政策？）
+- 3篇（一篇一作，一篇二作，一篇跨学科教育领域合作， Educational Policy, 政策？）
 - 新项目在搞！
 - New papers will come!!!
 
 ## Interests 兴趣爱好
 
-不是 research interests
+不是research interests
 
 无， 真的， 无
 
-培养个消遣的吧， 有玩 KSP的吗？ 坎巴拉太空计划， 不过这游戏能叫消遣吗？ 造火箭发卫星上天、登月， 都能闻到显卡和CPU的香味了
+培养个消遣的吧? 玩KSP？坎巴拉太空计划， 不过这游戏能叫消遣吗？ 造火箭发卫星上天、登月， 都能闻到显卡和CPU的香味了
